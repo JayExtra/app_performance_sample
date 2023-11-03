@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "app performance sample"
 include ':app'
 include ':benchmark'
+include ':micro_benchmark'
